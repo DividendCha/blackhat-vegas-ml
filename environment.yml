@@ -1,4 +1,7 @@
-name: bhml
+# Useage: conda env create -f environment.yml
+name: mlptsr
+channels:
+  - nbsantos
 dependencies:
   - python=2.7
   - jupyter
@@ -10,6 +13,4 @@ dependencies:
   - statsmodels
   - seaborn
   - pillow
-  - nltk
-  - pip:
-    - textblob
+  - textblob
