@@ -1,5 +1,6 @@
 name: bhml
 dependencies:
+  - python=2.7
   - jupyter
   - pandas
   - tensorflow-gpu
