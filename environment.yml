@@ -1,0 +1,14 @@
+name: bhml
+dependencies:
+  - jupyter
+  - pandas
+  - tensorflow-gpu
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - statsmodels
+  - seaborn
+  - pillow
+  - nltk
+  - pip:
+    - textblob
