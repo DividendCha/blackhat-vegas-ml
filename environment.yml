@@ -6,7 +6,7 @@ dependencies:
   - python=2.7
   - jupyter
   - pandas
-  - tensorflow-gpu
+  - tensorflow
   - scipy
   - scikit-learn
   - matplotlib
@@ -14,3 +14,4 @@ dependencies:
   - seaborn
   - pillow
   - textblob
+  - keras
