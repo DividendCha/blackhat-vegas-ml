@@ -1,10 +1,9 @@
 # Useage: conda env create -f environment.yml
-name: mlptsr
+name: bhml
 channels:
   - nbsantos
 dependencies:
   - python=2.7
-  - accelerate
   - jupyter
   - pandas
   - tensorflow-gpu
