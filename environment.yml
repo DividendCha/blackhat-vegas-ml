@@ -4,9 +4,10 @@ channels:
   - nbsantos
 dependencies:
   - python=2.7
+  - accelerate
   - jupyter
   - pandas
-  - tensorflow
+  - tensorflow-gpu
   - scipy
   - scikit-learn
   - matplotlib
@@ -14,4 +15,4 @@ dependencies:
   - seaborn
   - pillow
   - textblob
-  - keras
+  - keras-gpu
