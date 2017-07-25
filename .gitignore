@@ -1,2 +1,3 @@
 .DS_Store
 bh-env/*
+.ipynb_checkpoints/
